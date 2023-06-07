@@ -1,0 +1,15 @@
+/Users/valeriadunets/Desktop/С# ДЗ Рекурсия/obj/Debug/net6.0/С# ДЗ Рекурсия.csproj.AssemblyReference.cache
+/Users/valeriadunets/Desktop/С# ДЗ Рекурсия/obj/Debug/net6.0/С# ДЗ Рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeriadunets/Desktop/С# ДЗ Рекурсия/obj/Debug/net6.0/С# ДЗ Рекурсия.AssemblyInfoInputs.cache
+/Users/valeriadunets/Desktop/С# ДЗ Рекурсия/obj/Debug/net6.0/С# ДЗ Рекурсия.AssemblyInfo.cs
+/Users/valeriadunets/Desktop/С# ДЗ Рекурсия/obj/Debug/net6.0/С# ДЗ Рекурсия.csproj.CoreCompileInputs.cache
+/Users/valeriadunets/Desktop/С# ДЗ Рекурсия/bin/Debug/net6.0/С# ДЗ Рекурсия
+/Users/valeriadunets/Desktop/С# ДЗ Рекурсия/bin/Debug/net6.0/С# ДЗ Рекурсия.deps.json
+/Users/valeriadunets/Desktop/С# ДЗ Рекурсия/bin/Debug/net6.0/С# ДЗ Рекурсия.runtimeconfig.json
+/Users/valeriadunets/Desktop/С# ДЗ Рекурсия/bin/Debug/net6.0/С# ДЗ Рекурсия.dll
+/Users/valeriadunets/Desktop/С# ДЗ Рекурсия/bin/Debug/net6.0/С# ДЗ Рекурсия.pdb
+/Users/valeriadunets/Desktop/С# ДЗ Рекурсия/obj/Debug/net6.0/С# ДЗ Рекурсия.dll
+/Users/valeriadunets/Desktop/С# ДЗ Рекурсия/obj/Debug/net6.0/refint/С# ДЗ Рекурсия.dll
+/Users/valeriadunets/Desktop/С# ДЗ Рекурсия/obj/Debug/net6.0/С# ДЗ Рекурсия.pdb
+/Users/valeriadunets/Desktop/С# ДЗ Рекурсия/obj/Debug/net6.0/С# ДЗ Рекурсия.genruntimeconfig.cache
+/Users/valeriadunets/Desktop/С# ДЗ Рекурсия/obj/Debug/net6.0/ref/С# ДЗ Рекурсия.dll
